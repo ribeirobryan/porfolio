@@ -1,10 +1,10 @@
 @font-face {
     font-family: "bebas";
-    src: url(/assets/BebasNeue-Regular.ttf);
+    src: url(BebasNeue-Regular.ttf);
 }
 @font-face {
     font-family: "bebasLight";
-    src: url(/assets/BebasNeue\ Light.otf);
+    src: url(BebasNeue\ Light.otf);
 }
 :root{
     --mainColor:    hsl(0, 100%, 20%);
@@ -143,7 +143,7 @@ main{
     color: white;
     font-weight: bold;
     letter-spacing: 2px;
-    text-shadow: 3px 3px 5px black;;
+    text-shadow: 3px 3px 5px black;
     background: var(--bgColor1);
     border: 3px solid var(--mainColor);
     box-shadow: 2px 2px 4px black;
